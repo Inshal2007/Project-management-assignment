@@ -16,13 +16,13 @@ The project runs for six months and includes three payment-linked milestones tha
 
 **Project Name:** The Event Application – Event Management Platform
 **Development Team:** Inshal Zahid (Project Manager), Kim Quynh Huong Tuong, Muhammad Hassnain, Raj Bahadur Bhat, Fabio Bustamante Romillo
-**Project Duration:** 6 months (January 28 – June 25, 2025)
+**Project Duration:** 6 months (January 28 – June 25, 2026)
 
 The project is divided into three major payment assignments:
 
-* **Requirements Review** – Due: February 28, 2025 (Month 1)
-* **Implementation & Design Review** – Due: April 30, 2025 (Month 4)
-* **Final Delivery** – Due: June 25, 2025 (Month 6)
+* **Requirements Review** – Due: February 28, 2026 (Month 1)
+* **Implementation & Design Review** – Due: April 30, 2026 (Month 4)
+* **Final Delivery** – Due: June 25, 2026 (Month 6)
 
 Each payment is contingent on successful completion and approval of the corresponding milestone.
 
@@ -80,30 +80,30 @@ All tasks are tracked using **GitHub Projects** with the following workflow:
 
 * **Backlog**
 
-  * Finalize project scope and objectives (Inshal) – Due 2025-01-30
-  * Complete team skills matrix (Inshal) – Due 2025-01-31
+  * Finalize project scope and objectives (Inshal) – Due 2026-01-30
+  * Complete team skills matrix (Inshal) – Due 2026-01-31
 
 * **To Do**
 
-  * Analyze requirements document (Inshal) – Due 2025-02-05
-  * Design database schema for events and tickets (Sara) – Due 2025-02-10
-  * Create UI wireframes for event pages (Alex) – Due 2025-02-15
-  * Setup CI/CD and repository structure (Maya) – Due 2025-02-20
+  * Analyze requirements document (Inshal) – Due 2026-02-05
+  * Design database schema for events and tickets (Sara) – Due 2026-02-10
+  * Create UI wireframes for event pages (Alex) – Due 2026-02-15
+  * Setup CI/CD and repository structure (Maya) – Due 2026-02-20
 
 * **In Progress**
 
-  * Requirements validation and gap analysis (Inshal) – Due 2025-02-28
+  * Requirements validation and gap analysis (Inshal) – Due 2026-02-28
 
 * **Review**
 
-  * Review event creation prototype (Alex & Sara) – Due 2025-04-30
-  * Test ticket purchasing flow (John) – Due 2025-05-02
-  * Deployment and security review (Maya) – Due 2025-05-05
+  * Review event creation prototype (Alex & Sara) – Due 2026-04-30
+  * Test ticket purchasing flow (John) – Due 2026-05-02
+  * Deployment and security review (Maya) – Due 2026-05-05
 
 * **Done**
 
-  * Finalize user and admin documentation (Inshal) – Due 2025-06-20
-  * Deliver final platform for evaluation (Inshal) – Due 2025-06-25
+  * Finalize user and admin documentation (Inshal) – Due 2026-06-20
+  * Deliver final platform for evaluation (Inshal) – Due 2026-06-25
 
 Each task includes a description, assignee, due date, labels (e.g., `frontend`, `backend`, `urgent`), and status.
 
@@ -150,26 +150,26 @@ gantt
     axisFormat  %b %Y
 
     section Payment Assignment 1: Requirements
-    Initial Planning & Setup       :2025-01-28, 30d
-    Requirements Review & Sign-off :milestone, 2025-02-28, 0d
+    Initial Planning & Setup       :2026-01-28, 30d
+    Requirements Review & Sign-off :milestone, 2026-02-28, 0d
 
     section Payment Assignment 2: Implementation
-    UI/UX Design & Prototyping     :2025-03-01, 45d
-    Backend & API Development     :2025-03-10, 50d
-    Integration & Testing         :2025-04-01, 30d
-    Design Review                 :milestone, 2025-04-30, 0d
+    UI/UX Design & Prototyping     :2026-03-01, 45d
+    Backend & API Development     :2026-03-10, 50d
+    Integration & Testing         :2026-04-01, 30d
+    Design Review                 :milestone, 2026-04-30, 0d
 
     section Payment Assignment 3: Delivery
-    System Testing & Bug Fixes    :2025-05-01, 40d
-    Deployment & Documentation   :2025-06-10, 15d
-    Final Delivery                :milestone, 2025-06-25, 0d
+    System Testing & Bug Fixes    :2026-05-01, 40d
+    Deployment & Documentation   :2026-06-10, 15d
+    Final Delivery                :milestone, 2026-06-25, 0d
 ```
 
 ---
 
 ## Class Time Utilization
 
-A structured 60-minute class session on January 28th, 2025 was used to:
+A structured 60-minute class session on January 28th, 2026 was used to:
 
 * Clarify the event application’s core features and MVP scope
 * Discuss technical approach and constraints
